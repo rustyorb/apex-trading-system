@@ -1,0 +1,40 @@
+# Core Data Processing
+pandas==2.2.0
+numpy==1.26.3
+scipy==1.12.0
+
+# Async & WebSockets
+asyncio==3.4.3
+websockets==12.0
+aiohttp==3.9.1
+
+# Configuration
+python-dotenv==1.0.0
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+redis==5.0.1
+
+# Trading APIs
+py-clob-client==0.25.0
+python-binance==1.0.19
+
+# HTTP Requests
+requests==2.31.0
+
+# Machine Learning
+scikit-learn==1.4.0
+sciencetools==0.1.0
+
+# NLP & Sentiment
+sentence-transformers==2.3.1
+transformers==4.36.2
+
+# Monitoring & Dashboard
+streamlit==1.30.0
+plotly==5.18.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
